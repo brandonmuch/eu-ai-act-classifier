@@ -36,17 +36,17 @@ Given a plain-language description of an AI system, the tool returns:
 
 \```
 ============================================================
-INPUT:          An AI that screens CVs for job applications
-CLASSIFICATION: HIGH RISK
-Article:        Article 6 + Annex III
-Legal Basis:    Permitted but subject to strict compliance obligations.
-Obligations:    Requires conformity assessment, risk management system,
+## INPUT:          An AI that screens CVs for job applications
+## CLASSIFICATION: HIGH RISK
+## Article:        Article 6 + Annex III
+## Legal Basis:    Permitted but subject to strict compliance obligations.
+## Obligations:    Requires conformity assessment, risk management system,
                 human oversight, and EU registration.
-Principle:      Significant potential impact on health, safety, or
+## Principle:      Significant potential impact on health, safety, or
                 fundamental rights.
 ------------------------------------------------------------
-DISCLAIMER: This classification is indicative only.
-Final determination requires qualified legal review
+## DISCLAIMER: This classification is indicative only.
+## Final determination requires qualified legal review
 under EUR-Lex 2024/1689 (EU AI Act).
 ============================================================
 \```
